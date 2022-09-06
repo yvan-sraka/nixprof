@@ -1,0 +1,21 @@
+[0.012611] @nix {"action":"start","id":306634895130624,"level":4,"text":"copying '/Users/yvan/IOHK/nixprof-test'","type":0}
+[0.023993] @nix {"action":"stop","id":306634895130624}
+[0.339092] @nix {"action":"start","id":1464583847936,"level":6,"text":"querying info about missing paths","type":0}
+[0.339230] @nix {"action":"stop","id":1464583847936}
+[0.339300] @nix {"action":"start","id":1464583847937,"level":0,"text":"","type":102}
+[0.339324] @nix {"action":"start","id":1464583847938,"level":0,"text":"","type":104}
+[0.339341] @nix {"action":"start","id":1464583847939,"level":0,"text":"","type":103}
+[0.339365] @nix {"action":"result","fields":[0,1,0,0],"id":1464583847938,"type":105}
+[0.339381] @nix {"action":"result","fields":[0,0,0,0],"id":1464583847939,"type":105}
+[0.339397] @nix {"action":"result","fields":[101,0],"id":1464583847937,"type":106}
+[0.339412] @nix {"action":"result","fields":[100,0],"id":1464583847937,"type":106}
+[0.339427] @nix {"action":"start","id":1464583847940,"level":6,"text":"querying info about missing paths","type":0}
+[0.339454] @nix {"action":"stop","id":1464583847940}
+[0.397643] @nix {"action":"result","fields":[0,0,0,0],"id":1464583847938,"type":105}
+[0.397702] @nix {"action":"result","fields":[0,0,0,0],"id":1464583847939,"type":105}
+[0.397728] @nix {"action":"result","fields":[101,0],"id":1464583847937,"type":106}
+[0.397754] @nix {"action":"result","fields":[100,0],"id":1464583847937,"type":106}
+[0.397778] @nix {"action":"stop","id":1464583847939}
+[0.397799] @nix {"action":"stop","id":1464583847938}
+[0.397820] @nix {"action":"stop","id":1464583847937}
+[0.402582]         0.41 real         0.16 user         0.03 sys
